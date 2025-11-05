@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/RodrigoDeSousaSilva">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoDeSousaSilva&theme=algolia&show_icons=true">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDeSousaSilva&layout=compact&langs__count=16&theme=algolia"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoDeSousaDev&theme=algolia&show_icons=true">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDeSousaDev&layout=compact&langs__count=16&theme=algolia"/>
 </div>
 
 <h2>Main technologies</h2>
