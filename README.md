@@ -2,12 +2,6 @@
  <p></p>Desenvolvedor Back-end focado em Java e Spring Boot. Possuo experiência com Node.js e Express, além de conhecimento sólido em JavaScript. Trabalho também com bancos de dados MySQL e PostgreSQL, desenvolvendo soluções robustas, seguras e escaláveis.
 <br></p>
 
-<div>
-  <a href="https://github.com/RodrigoDeSousaDev">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoDeSousaDev&theme=algolia&show_icons=true">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDeSousaDev&layout=compact&langs__count=16&theme=algolia"/>
-</div>
-
 <h2>Main technologies</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
