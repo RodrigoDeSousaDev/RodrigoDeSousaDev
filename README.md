@@ -1,5 +1,6 @@
  <h1> Hi, i am Rodrigo Silva </h1>
- <p></p>Desenvolvedor Back-end aprendendo Node.js com foco no framework Express. Possuo conhecimento em JavaScript e utilizo o ecossistema do Node.js para construir soluções robustas e escaláveis. Também programo em Java e tenho conhecimento em bancos de dados MySQL e PostgreSQL..<br></p>
+ <p></p>Desenvolvedor Back-end focado em Java e Spring Boot. Possuo experiência com Node.js e Express, além de conhecimento sólido em JavaScript. Trabalho também com bancos de dados MySQL e PostgreSQL, desenvolvendo soluções robustas, seguras e escaláveis.
+<br></p>
 
 <div>
   <a href="https://github.com/RodrigoDeSousaSilva">
